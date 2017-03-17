@@ -4,7 +4,7 @@
         <p class="demo_description">This template fork from webpack-simple which belong to vue-cli</p>
         <list-comp :list="defaultList"></list-comp>
         <tips-comp>
-            </list-comp>
+            </tips-comp>
     </div>
 </template>
 
